@@ -1,0 +1,10 @@
+C:\Users\jinhuck\Desktop\디비실습_홍동권 교수님\230925_실습\실습과제_일반용_계산기\bin\Debug\실습과제_일반용_계산기.exe.config
+C:\Users\jinhuck\Desktop\디비실습_홍동권 교수님\230925_실습\실습과제_일반용_계산기\bin\Debug\실습과제_일반용_계산기.exe
+C:\Users\jinhuck\Desktop\디비실습_홍동권 교수님\230925_실습\실습과제_일반용_계산기\bin\Debug\실습과제_일반용_계산기.pdb
+C:\Users\jinhuck\Desktop\디비실습_홍동권 교수님\230925_실습\실습과제_일반용_계산기\obj\Debug\실습과제_일반용_계산기.csproj.AssemblyReference.cache
+C:\Users\jinhuck\Desktop\디비실습_홍동권 교수님\230925_실습\실습과제_일반용_계산기\obj\Debug\실습과제_일반용_계산기.Form1.resources
+C:\Users\jinhuck\Desktop\디비실습_홍동권 교수님\230925_실습\실습과제_일반용_계산기\obj\Debug\실습과제_일반용_계산기.Properties.Resources.resources
+C:\Users\jinhuck\Desktop\디비실습_홍동권 교수님\230925_실습\실습과제_일반용_계산기\obj\Debug\실습과제_일반용_계산기.csproj.GenerateResource.cache
+C:\Users\jinhuck\Desktop\디비실습_홍동권 교수님\230925_실습\실습과제_일반용_계산기\obj\Debug\실습과제_일반용_계산기.csproj.CoreCompileInputs.cache
+C:\Users\jinhuck\Desktop\디비실습_홍동권 교수님\230925_실습\실습과제_일반용_계산기\obj\Debug\실습과제_일반용_계산기.exe
+C:\Users\jinhuck\Desktop\디비실습_홍동권 교수님\230925_실습\실습과제_일반용_계산기\obj\Debug\실습과제_일반용_계산기.pdb
