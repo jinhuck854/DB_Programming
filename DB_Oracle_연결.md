@@ -1,4 +1,4 @@
-# Step 1. `OracleManagedDataAccess` 설치
+# Step 1. OracleManagedDataAccess 설치
  1. Visual Studio 새 프로젝트 생성
  2. 새 프로젝트 우클릭 - 'Nuget 패키지 관리' 클릭 후 '찾아보기'
  3. 'oracle' 검색 후 `OracleManagedDataAccess` 설치 후 확인
